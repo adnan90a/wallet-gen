@@ -35,4 +35,4 @@ A secure wallet generator for Octra blockchain.
    - View mnemonic phrase, private/public keys, and address
    - Test signature functionality
    - Derive addresses for different network types
-   - Auto-save wallet file to disk
+   - Auto-save wallet file to disk 
